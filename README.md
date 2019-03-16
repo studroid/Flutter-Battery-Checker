@@ -1,2 +1,2 @@
-# flutter_battery_checker
+# Flutter Battery Checker
 Battery Checking Apps for iOS &amp; Android using Flutter
